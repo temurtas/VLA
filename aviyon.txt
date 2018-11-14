@@ -1,0 +1,11 @@
+GARMIN G500 Seçme Sebeplerimiz
+
+1- Suit yapýsý sebebiyle Intercom, transponder, audio panel vs. elektroniklerin parça parça entegre problemleriyle uðraþmadan kullanýlmasý.
+2- Fiyat sýnýrý konmadýðý için, fiyat/performans oranýný göz ardý ederek yüksek performansýný deðerlendirerek seçtik.
+3- TAI tarafýndan belirlenen bütün isterleri yerine getirmesi sebebi ile,
+4- Olasý Sertifikasyon problemleri için Dynon Skyview HDX Trade-Off olarak Seçildi
+
+
+ELT olarak ELT 406 Artex seçildi, TAI'nin 4g versiyonunu HÜRKÜÞ'da kullandýðý bu aviyoniðin, 2g versiyonu bizim için yeterlidir.
+
+Göstergeler aviyonik mimari belirlendikten sonra dijital alternatifler arasýndan seçilecek. 
